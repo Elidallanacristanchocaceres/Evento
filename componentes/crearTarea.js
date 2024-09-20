@@ -5,7 +5,6 @@ CrearTarea.style = `
     text-align: center;
     align-item: center;
     justify-content: center
-    display-flex: direccion;
     color: red;
 `
 

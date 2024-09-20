@@ -1,5 +1,6 @@
 
-const ContenedorTareas = document.createElement("div");
-ContenedorTareas.id ="ContenedorTareas";
+const contenedorTareas = document.createElement("div");
+contenedorTareas.id ="ContenedorTareas";
 
-export default ContenedorTareas;
+
+export default contenedorTareas;
